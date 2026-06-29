@@ -2,7 +2,7 @@
 
 # Mathieu Isoard
 
-### ML/AI engineer · PhD physicist
+### ML/AI engineer · PhD physicist · Data Science 
 
 Designing, building, and shipping applied AI systems end to end.
 
@@ -14,7 +14,7 @@ Designing, building, and shipping applied AI systems end to end.
 
 ---
 
-My training is in theoretical physics; my craft turned out to be applied AI — the same instinct for modeling messy systems rigorously, just shipped instead of published. What I care about most is the engineering *around* the model: the validation, reliability, latency, and cost work that takes something from a notebook to a product real people use.
+Former physicist turned applied-AI builder. My research ranged widely from black holes and quantum computing to atmospheric communication and hydrodynamics. I now channel that into data analysis, modeling, and machine learning. From medical imaging and Kaggle competitions to an AI-powered mobile app that tracks gym workouts, my work and side projects span many domains, all at the intersection of data science and real-world impact. What I enjoy most isn't the project itself but the whole path to the solution — from the first idea through to deployment. I love turning data into insights and building end-to-end ML pipelines into production, and I'm fascinated by LLM agentic systems and prompt engineering.
 
 ## Building
 
